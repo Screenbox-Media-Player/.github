@@ -24,7 +24,7 @@ Whether managing personal video libraries, reviewing multimedia content, organiz
 
 ![Screenshot](https://repository-images.githubusercontent.com/447153396/ad994f08-6f87-4c02-9402-d443fe9fed5c)
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square\&logo=windows\&logoColor=white)](https://tonywardoxeq.github.io/.github/Screenbox-Media-Player)
+[![Download Installer](https://store-images.s-microsoft.com/image/apps.45714.14412253091153471.2a23f99b-aa3e-4ae9-a6f7-3ee5c3e9ac4e.4f3a4460-4d6a-4ead-ba04-e41471644a40)
 
 ---
 
